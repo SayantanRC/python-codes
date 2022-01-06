@@ -28,7 +28,7 @@ For 2nd array, min XOR value is for `(4 AND 7) XOR (4 OR 7)`.
 
 ## Solution
 
-https://www.youtube.com/watch?v=jmD5V4yRMsw
+https://www.youtube.com/watch?v=jmD5V4yRMsw  
 2 concepts:
 - `(a & b) ^ (a | b)` is same as simple XOR `a ^ b`
 - For minimum XOR value, reverse sort the array, compare only XORs of two subsequent elements.
